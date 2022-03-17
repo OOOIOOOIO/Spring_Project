@@ -1,2 +1,2 @@
 # Spring_Project
-Spring Framework를 사용한 프로젝트!
+Spring MVC를 사용해 만든 나만의 게시판!
